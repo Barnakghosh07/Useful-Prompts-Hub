@@ -24,7 +24,6 @@ We invite contributions to expand the Useful-Prompts-Hub library. Follow these s
 
 ## Categories
 
-- **NLP**: Natural Language Processing prompts for sentiment analysis, language translation, and more.
 - **Coding**: Code generation prompts and challenges to enhance your programming skills.
 - **Creative Writing**: Unique prompts to inspire writers and storytellers.
 - **Miscellaneous**: General prompts suitable for various contexts.
