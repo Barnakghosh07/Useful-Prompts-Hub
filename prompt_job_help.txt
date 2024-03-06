@@ -1,0 +1,173 @@
+1. Using AI to search for job titles​
+
+Prompt: 
+
+I am looking for a data analyst job. I know SQL, Excel, Power BI. What kind of job titles should I search for?
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+2. Using AI to customize resume​
+(Video reference: https://codebasics.io/courses/bootcamp/1/Building-Online-Credibility-Portfolio-Projects-ATS-Resume/lecture/1257​)
+
+Prompt 1: 
+
+Tailor my resume as per the job description. Job description and resume are provided below,​
+​
+Job Description​
+----------​-----
+
+​
+Resume​
+------
+​
+Prompt 2: Fit in on page with more emphasis on Power BI
+
+​------------------------------------------------------------------------------------------------------------------------------------
+
+3. Asking for referral​
+
+	Prompt 1:
+
+I'm applying for a job at a company called Fractal and found someone who is working there on Linkedin. Can you help me write a linkedin message asking for referral in not more than 100 words.
+
+I will give 3 Inputs based on which you give the referral message
+
+Input 1: Person's about me section from whom I want referral
+------------------------------------------------------------
+
+Input 2: Job Description 
+
+------------------------
+
+Input 3: My Resume
+
+------------------
+
+
+	Prompt 2:
+
+Can you shorten this text to 5 lines and adjust the template to add project and resume links
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+4. Provide Feedback For Better Response​
+
+Prompt: Can you make the subject line look more unique
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+5. Mock Interviews​
+
+	1. Questions related to a job posting:
+​
+		Prompt 1:
+
+I am going to give an interview for a power bi developer position. Ask me some interview questions based on the below job description.
+
+Job description:
+
+Minimum 3 years of Strong working experience in MS Power BI tool, Data Analytics and Data Visualisation
+Atleast 1 year experience in Python Programming
+Power BI Cloud / Workspace
+Power Apps
+Power Automate
+Power Insights
+Should have working experience on Creating Gateways and API’s connection to Power BI
+Knowledge on Power BI Embed (Desirable)
+Should possess strong knowledge on DAX / MDX Query languages
+Expert level knowledge in ETL tools, Creation of Database using Excel / SQL / any other applications if required (Desirable)
+Experience working with SSAS – Tabular Model or Multi-dimensional models
+Knowledge on SSMS and SSIS systems or any other analytical tools – Desirable
+Knowledge on database development / management (SQL / ORACLE / Cloud based database) would be added advantage (Desirable)
+Working knowledge of MS Office, relational databases and ERP systems (e.g. SAP)
+Worked on complete SDLC in Power BI development projects
+Preferable to have experience in Python and R development
+Analytical mind with business acumen, Problem-solving aptitude
+Good communication skills (Mandatory)
+Must have customer handling experience
+
+		Prompt 2:
+
+Ask these questions one by one
+
+----------------------------------------------
+
+	2.Questions related to your resume​:
+
+Prompt:
+
+I am interviewing for a data analyst position. Ask me resume and projects related questions based on below resume.​
+​
+Resume​
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+6. Technical Interview​
+
+	1. SQL interview: Basic one​
+
+Prompt: ​
+​
+Conduct my SQL interview for a data analyst position​
+​
+Ask questions one by one​
+​
+Now ask me to write some SQL queries​
+
+	
+	2. SQL interview: Only Queries & Rating​
+
+Prompt: Take my SQL interview for a data analyst position. Ask only one question at a time. Ask me to write queries only, no theoretical questions please.​
+
+
+	3. SQL interview: Difficulty Level​
+
+Prompt: Take my SQL interview for a data analyst position. Difficulty level should be HIGH. Ask only one question at a time.​
+
+
+	4. Mixed Interview: Excel, SQL, Power BI​
+
+Prompt: Conduct my technical interview for a data analyst position. Ask questions on Excel, Power BI and SQL​
+
+​	
+	5. Power BI Interview: Only Formulas​
+
+Prompt: take my power bi interview. ask questions on writing DAX formulas for a given use case
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+7. Behavioral / Case study ​
+
+Prompt 1 : 
+
+	Conduct my Interview for a data analyst position. Ask case studies type questions, one by one
+
+Prompt 2 : 
+	
+	Please conduct a behavioral mock up interview with me, ask at least 5 questions. 
+
+	I will give 3 Inputs based on which you ask questions 
+
+	Input 1: Company Overview from theri Linkedin page
+	------------------------------------------------------------
+
+	Input 2: Job Description 
+
+	------------------------
+
+	Input 3: My Resume
+
+	------------------
+
+	Please ask behavioral questions, one by one.
+
+Prompt 3 : 
+	
+	Ask some behavioral questions that are asked in data analyst interview conducted by a company called <Company Name>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+8. Connecting with people on LinkedIn​
+
+Prompt: I'm a data analytics aspirant & want to create a positive impression with Dhaval Patel, founder of Codebasics. Write me a LinkedIn connection message in 100 words. This is his about me section​
+https://www.linkedin.com/in/dhavalsays/

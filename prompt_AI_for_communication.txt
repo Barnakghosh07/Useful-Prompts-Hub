@@ -1,0 +1,138 @@
+1. Saying things in a compact way
+
+Prompt:
+
+say this sentence in a more compact way using only 5 words
+
+Can you fill my gas tank with full with regular petrol. And yes I will use my credit card for the payment.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+2. Asking clarifying questions on requirements​
+
+Prompt:
+
+Make below email concise. Make bullet points for questions that are being asked to Wanda
+
+Hello Wanda,
+
+It was a nice call this morning for project kick off. I have some follow up questions post our project kick off meeting, I hope you can answer those. In terms of the dashboard we are building are we going to include building the market share visual in phase 1? Who can give me the required data for the past performance of our PPC campaigns, ROAS, marketing spend etc... you know I am bit confused and not sure what to do so asking for your help... Also I am attaching the roug project proposal here in this email so please kindly look at it and thanks very much once again for such a detailed meeting today morning.
+
+Thanks you.
+
+Regards,
+
+Peter Pandey
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+3. Responding to Questions​
+
+Prompt:
+
+Make below email concise. Make bullet points for Answers
+
+Hello Peter,
+
+Thank you for attending the call today morning. I also enjoy talking about requirements in the details and I hope you are doing well by the way. Regarding your questions, see for the market share visual, let's see! I am thinking we should include it in phase 1 because this will bring transparency to our marketing team. The answer of your second question is that you can contact Lauki Lal who is our data engineer. He knows about data catalog, handles our SQL database. By teh way he is a talented guy.He will help you get required data such as PPC campaign, ROAD and such.
+
+Thanks very much,
+
+-Wanda
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+4. Making tough communications easier​
+
+	1. Dealing with a manager​:
+
+Prompt:
+
+My manager is giving me very tight, unreasonable deadlines. My mother's health is not good and I need to be home before 6.30 pm but when I leave at 6 pm sharp he thinks I am not hardworking. How do I communicate my situation through emall to my manager such that he understands! Emall should be less than 10 lines
+
+	
+	2. Appraisal/performance meetings​:
+
+Prompt:
+
+I have an appraisal meeting in 2 weeks, my performance is great and I deserve 20% hike.
+
+Let's say my manager says she can give me only 8% hike, give me some real conversation examples of how I can negotiate
+
+These are some areas I did well
+
+-Completed project athens successfully
+
+- onboarded a new team member and made her successful
+
+-worked on feedback regarding communication skills from my previous review meeting and improved it
+
+
+	3. Not able to meet a commitment​:
+
+Prompt:
+
+I have a task deadline in 4 days and looks like I won't be able to meet it.
+
+The real reason is I was careless and did not manage my tasks well. But I'm willing to make some extra effort and complete it with a quality check within 2 additional days. My manager asked me last week If I will be able to deliver on time and I said Yes.
+
+How can I communicate about this scenario professionally over an email in about 150 words to my manager in such a way that she will still see me as a credible person?
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+5. Ask for enhancement tips​
+
+Prompt:
+
+I'm presenting some insights to my business stakeholders on sales growth over last 12 months and giving them few suggestions from my end.
+
+How can I start the presentation so that I grab their attention instantly?
+
+Give me 3 tips
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+6. Preparing Presentations​
+
+Prompt:
+
+Below is the story of how EY used microsoft power platform to speed time to market. Please create 5 slides power point presentation for this
+
+Business travel and living abroad for work can be exciting career milestones—and also require a lot of legwork to coordinate changes in tax status, compensation, and immigration. To centralize that coordination for its clients, EY teams created the EY Mobility Pathway (EYMP). Despite the complexities and massive amounts of data involved, the firm launched EYMP quickly using Microsoft Power Platform, Dynamics 365, Azure, and a custom React portal. EY teams brought the product to market in record time, delivering a better user experience and value-added services to its clients.
+
+We used Microsoft Power Platform, and within six weeks, we built a prototype that we could demo to EY clients. 
+Michael Maloney: Senior Technical Architect
+
+Ernst & Young LLP.
+
+Centralized mobility platform
+Companies around the world know the EY organization for helping clients build a better working world, foster trust in the capital markets, and create long-term value for society. Working across assurance, consulting, law, strategy, tax, and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+Many of its clients turn to EY teams for enterprise mobility support. EY professionals helps them manage everything related to corporate international travel or relocation, such as employee immigration, tax implications, compensation, visas, and lodging.
+
+The EY organization has been offering enterprise mobility services for few years, but clients and staff had to handle each aspect of these services individually. The firm began to develop a product in-house called the EY Mobility Pathway (EYMP) to consolidate the web of legacy systems. It was incredibly complex and involved huge amounts of data.
+
+Rapid development unlocked
+EY teams have worked closely with Microsoft for many years and won the 2020 US Microsoft Partner of the Year Award for Advisory Services. In early 2019, the EYMP team turned to Microsoft Power Platform to create a proof of concept for the EYMP. “We used Microsoft Power Platform and within six weeks, we built a prototype that we could demo to EY  clients,” says Michael Maloney, Senior Technical Architect at Ernst & Young LLP.
+
+EY developer teams determined that all case management could take place in the Microsoft Power Platform. A “case” refers to the employee that the mobility services focus on, and each aspect of a case is called a task. Internally, EY analysts and case coordinators use EYMP to help move client cases forward. Clients also access EYMP, including the employee going overseas, who might need to upload relevant documents, and the HR staff or corporate managers who track the employee’s case. Developers augmented EYMP with Microsoft Power BI for reporting and analytics, which the HR and corporate managers access to gain visibility into their overall case status across various tasks.
+
+EYMP uses Microsoft Dataverse to store data related to the cases, such as citizenship, contact, and dependent information. The developers also took advantage of Microsoft Power Automate to automate the many tasks within a case. EYMP automatically creates cases when triggered by certain conditions and generates tasks as the case moves through different stages. “We’ve added a lot of automation with Power Automate as our workflow engine,” says Maloney. “We’ve drastically reduced manual work, even on complex workflows, which is fantastic.”
+
+EY developers used React, which its creators describe as “a JavaScript library for building user interfaces,” to create a custom front-end portal. React communicates directly with the various back-end systems through APIs. “We trained all our developers in using Microsoft Power Platform because it’s extremely powerful and flexible,” says Maloney. “It’s been easy for our developers to work across Microsoft Power Platform with the React portal just by adding APIs.”
+
+To manage traffic to the EYMP portal, EY teams uses Microsoft Azure Application Gateway. The organization also relies on Microsoft Dynamics 365 Customer Service to support case management, including document management and contact access for customer profiles.
+
+Unprecedented speed to market
+EYMP is an incredibly complex solution, but EY teams were able to take it to market quickly by taking advantage of Microsoft Power Platform. The team began development in May 2019 and took EYMP live with the first client in November of the same year. “We built our product quickly with Microsoft Power Platform because it’s a low-code, highly configurable platform that handles large datasets,” says Doug Fighter, Senior Manager at Ernst and Young LLP . “The EYMP leadership team was happy with the speed with which we built this product.” 
+
+Added value to clients
+Through EYMP, the organization now offers a more streamlined, sophisticated experience to its clients to help them manage corporate travel. “The biggest impact for EY  clients is the seamless experience offered by EYMP,” says Fighter. “Rather than information in siloed applications, we now provide visibility and a rich user experience for EY  clients to help manage information within one tool. It’s a huge upgrade that clients are thrilled with.”
+
+With all enterprise mobility services in one cloud-based platform, EY teams have  positioned itself to serve the unique needs of large clients more easily. “EYMP is a supporter for some of the  enterprise clients. We now can deploy into an environment specific to them and customize EY services for their needs in just 2 months instead of 6 to 12 months,” says Fighter.
+
+He concludes, “We have the flexibility and the business logic to manage thousands of different combinations of country-to-country travel within one tool, which has made a real difference for EY clients and our internal teams. Choosing Microsoft Power Platform has definitely been a win-win for us all.”
+
+
+
+
